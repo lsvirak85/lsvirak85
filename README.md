@@ -26,7 +26,7 @@
 
 - <b>CompTia Security+</b>
   - [Link](https://www.credly.com/badges/1a7e9ae8-0717-484b-af99-11f55186f546/linked_in_profile)
-- <b>Microsoft Certified: Identity and Access Administrator Associate</b>
+- <b>Microsoft Certified: Identity and Access Administrator Associate SC-300</b>
   - [Link](https://learn.microsoft.com/en-us/users/lennonvirakone-3068/credentials/37a8c85b03d97c65?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 <h2> 🤳 Connect with me:</h2>
