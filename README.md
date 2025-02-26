@@ -1,4 +1,4 @@
-<h1>Hello, I'm Lennon <br/><a href="https://github.com/lsvirak85">IAM Engineer</a> and <a href="https://www.linkedin.com/in/lennon-virakone/">IT Specialist</a>. 
+<h1>Hello, I'm Lennon <br/><a href="https://github.com/lsvirak85">IAM Engineer</a> and <a href="https://www.linkedin.com/in/lennon-virakone/">IT Specialist</a>
 
 <h2>👨‍💻 IAM (Identity & Access Management) Projects:</h2>
 
