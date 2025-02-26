@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IAM (Identity & Access Management) Projects:</h2>
 
-- <b>Cloud Security IAM Lab</b>
+- <b>Cloud Security IAM Lab (Step by step instructions)</b>
   - [Creating Users with Least Privilege Access Keys](https://github.com/lsvirak85/Cloud-Security-IAM-Lab)
 - <b>AWS CLI Crash Course IAM</b>
   - [AWS Command Line Crash Course](https://github.com/lsvirak85/AWS-CLI-Crash-Course-IAM-) 
