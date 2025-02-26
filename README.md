@@ -22,24 +22,17 @@
 - <b>Active Directory Setup</b>
   - [Active Directory Home Lab](https://github.com/lsvirak85/Active-Directory-Setup/blob/main/README.md)
 
-## Certifications
-<div>
-<p><a href="https://www.credly.com/badges/1a7e9ae8-0717-484b-af99-11f55186f546/linked_in_profile">
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white">
-</a></p>
-  
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+<h2>📜 Certifications:</h2>
+
+- <b>CompTia Security+</b>
+  - [Link](https://www.credly.com/badges/1a7e9ae8-0717-484b-af99-11f55186f546/linked_in_profile)
+- <b>Microsoft Certified: Identity and Access Administrator Associate</b>
+  - [Link](https://learn.microsoft.com/en-us/users/lennonvirakone-3068/credentials/37a8c85b03d97c65?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: (https://www.linkedin.com/in/lennon-virakone/)
+- <b>Linkedin</b>
+  - [Link](https://www.linkedin.com/in/lennon-virakone/)
 
 <!--
 **lsvirak85/lsvirak85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
