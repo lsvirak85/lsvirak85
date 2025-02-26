@@ -4,7 +4,7 @@
 
 - <b>Cloud Security IAM Lab (Step by step instructions)</b>
   - [Creating Users with Least Privilege Access Keys](https://github.com/lsvirak85/Cloud-Security-IAM-Lab)
-- <b>AWS CLI Crash Course IAM</b>
+- <b>AWS CLI Crash Course IAM (Step by step instructions)</b>
   - [AWS Command Line Crash Course](https://github.com/lsvirak85/AWS-CLI-Crash-Course-IAM-) 
 - <b>Onboard Automation</b>
   - [Onboarding with MS Forms, Automate, and Azure](https://github.com/lsvirak85/Onboard-Automation/blob/main/README.md)
