@@ -7,20 +7,21 @@
 - <b>AWS CLI Crash Course IAM (Step by step instructions)</b>
   - [AWS Command Line Crash Course](https://github.com/lsvirak85/AWS-CLI-Crash-Course-IAM-) 
 - <b>Onboard Automation</b>
-  - [Onboarding with MS Forms, Automate, and Azure](https://github.com/lsvirak85/Onboard-Automation/blob/main/README.md)
+  - [Onboarding with MS Forms, Automate, and Azure](https://github.com/lsvirak85/Onboard-Automation)
 - <b>Okta and Azure Federation</b>
-  - [Okta and Azure Federation](https://github.com/lsvirak85/Okta-and-Azure-Federation/blob/main/README.md)
+  - [Okta and Azure Federation](https://github.com/lsvirak85/Okta-and-Azure-Federation)
 - <b>Okta User and Group</b>
-  - [Creating Users and Groups in Okta](https://github.com/lsvirak85/Okta-User-and-Group/blob/main/README.md)
+  - [Creating Users and Groups in Okta](https://github.com/lsvirak85/Okta-User-and-Group)
 - <b>Okta AD Integration</b>
-  - [Active Directory & Okta Integration Project](https://github.com/lsvirak85/Okta-AD-Intergration/blob/main/README.md)
+  - [Active Directory & Okta Integration Project](https://github.com/lsvirak85/Okta-AD-Intergration)
 
 <h2>🖥️ Cybersecurity/IT Projects:</h2>
-
+-<b>Self Hosted Help Desk</b>
+  - [Peppermint Help Desk Ticketing System](https://github.com/lsvirak85/self-hosted-help-desk)
 - <b>Home Server Setup</b>
-  - [Home Server Setup and Optimization](https://github.com/lsvirak85/Home-Server-Setup/blob/main/README.md)
+  - [Home Server Setup and Optimization](https://github.com/lsvirak85/Home-Server-Setup)
 - <b>Active Directory Setup</b>
-  - [Active Directory Home Lab](https://github.com/lsvirak85/Active-Directory-Setup/blob/main/README.md)
+  - [Active Directory Home Lab](https://github.com/lsvirak85/Active-Directory-Setup)
 
 <h2>📜 Certifications:</h2>
 
