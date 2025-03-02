@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 IAM (Identity & Access Management) Projects:</h2>
 
-- <b>Cloud Security IAM Lab (Step by step instructions)</b>
+- <b>Cloud Security IAM Lab (Step by step guide)</b>
   - [Creating Users with Least Privilege Access Keys](https://github.com/lsvirak85/Cloud-Security-IAM-Lab)
-- <b>AWS CLI Crash Course IAM (Step by step instructions)</b>
+- <b>AWS CLI Crash Course IAM (Step by step guide)</b>
   - [AWS Command Line Crash Course](https://github.com/lsvirak85/AWS-CLI-Crash-Course-IAM-) 
 - <b>Onboard Automation</b>
   - [Onboarding with MS Forms, Automate, and Azure](https://github.com/lsvirak85/Onboard-Automation)
@@ -16,7 +16,8 @@
   - [Active Directory & Okta Integration Project](https://github.com/lsvirak85/Okta-AD-Intergration)
 
 <h2>🖥️ Cybersecurity/IT Projects:</h2>
--<b>Self Hosted Help Desk</b>
+
+- <b>Self Hosted Help Desk (Step by step guide)</b>
   - [Peppermint Help Desk Ticketing System](https://github.com/lsvirak85/self-hosted-help-desk)
 - <b>Home Server Setup</b>
   - [Home Server Setup and Optimization](https://github.com/lsvirak85/Home-Server-Setup)
